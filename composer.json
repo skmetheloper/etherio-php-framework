@@ -20,7 +20,7 @@
     },
     "classmap": [
       "database/seeds"
-    ]
+    ],
     "files": [
       "src/Ethereal/Foundation/helpers.php"
     ]
