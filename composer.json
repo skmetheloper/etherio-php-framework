@@ -1,7 +1,6 @@
 {
   "name": "etherio/ethereal",
   "description": "The PHP Development Framework",
-  "version": "v1.3.1",
   "license": "MIT",
   "type": "project",
   "keywords": [
