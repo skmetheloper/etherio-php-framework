@@ -4,7 +4,11 @@
   "version": "1.0.0",
   "license": "MIT",
   "type": "project",
-  "keywords": ["ethereal", "etherio", "framework"],
+  "keywords": [
+    "ethereal",
+    "etherio",
+    "framework"
+  ],
   "require": {
     "php": "^7.2.1",
     "ext-json": "*",
@@ -41,5 +45,10 @@
     ],
     "post-autoload-dump": [
     ]
+  }, 
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
   }
 }
